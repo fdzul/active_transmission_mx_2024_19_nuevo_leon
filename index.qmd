@@ -31,9 +31,8 @@ library(magrittr)
 
 ::: panel-tabset
 
-### [**Guadalajara**]{style="color:#990000"}
+### [**Monterrey**]{style="color:#990000"}
 
-### [**Puerto Vallarta**]{style="color:#990000"}
 
 :::
 
@@ -42,8 +41,7 @@ library(magrittr)
 
 ::: panel-tabset
 
-### [**Guadalajara**]{style="color:#990000"}
+### [**Monterrey**]{style="color:#990000"}
 
-### [**Puerto Vallarta**]{style="color:#990000"}
 
 :::
